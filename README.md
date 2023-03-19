@@ -1,1 +1,1 @@
-# Project-R
+# Example of README.md
